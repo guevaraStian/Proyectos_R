@@ -2,7 +2,7 @@ R
 
 
 Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de R en la terminal de comandos
 
 Windows
 ```Pagina web
