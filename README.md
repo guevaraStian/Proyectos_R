@@ -10,9 +10,15 @@ https://posit.co/download/rstudio-desktop/
 https://cran.r-project.org/
 ```
 
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
+Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
 
-
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Proyectos_R.git
+Cd Proyectos_R
+git push origin master
+```
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
 
 
