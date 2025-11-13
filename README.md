@@ -1,4 +1,5 @@
-R
+
+<h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS BASICOS EN R </h1> 
 
 
 Los pasos para poner en ejecución son los siguientes
