@@ -11,7 +11,7 @@ https://posit.co/download/rstudio-desktop/
 https://cran.r-project.org/
 ```
 
-Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
+Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego descargamos el proyecto dando click en el boton verde de la pagina de git y luego la opcion dowload, otra forma de descargar los archivo es con los siguiente comandos.
 
 ```Terminal de comandos
 git --version
