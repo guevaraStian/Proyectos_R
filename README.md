@@ -2,7 +2,7 @@
 <h1 style="font-size: 3em; color: #FF0000;">•  PROYECTOS EN R </h1> 
 
 
-Los pasos para poner en ejecución son los siguientes
+Los pasos para poner en ejecución son los siguientes. Lo primero es descargar todo lo relacionado con R.
 Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de R en la terminal de comandos.
 
 Windows
