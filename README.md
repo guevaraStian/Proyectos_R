@@ -5,11 +5,31 @@ En este repositorio hay diferentes software en el lenguaje de programacion R.
 Los pasos para poner en ejecución son los siguientes. Lo primero es descargar todo lo relacionado con R.
 Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de R en la terminal de comandos.
 
-Windows
+Pagina web
 ```Pagina web
 https://posit.co/download/rstudio-desktop/
 https://cran.r-project.org/
 ```
+
+
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
 
 Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego descargamos el proyecto dando click en el boton verde de la pagina de git y luego la opcion dowload, otra forma de descargar los archivo es con los siguiente comandos, funciona igual en todos los sistemas operativos.
 
