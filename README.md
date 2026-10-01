@@ -12,7 +12,7 @@ https://cran.r-project.org/
 ```
 
 
-El comando de consola para intalar GIT en cada sistema operativo es el siguiente, cada comando es para cada sustema operativo en ese orden.
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente, cada comando es para cada sistema operativo en ese orden, como aparece a continuacion.
 
 WINDOWS
 ```Windows
