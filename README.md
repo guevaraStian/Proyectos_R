@@ -41,6 +41,6 @@ Cd Proyectos_R
 git push origin master
 ```
 El proyecto se ejecuta en Rstudio que es la IDE de R.
-Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes dependiendo como este programado el software
 
 
