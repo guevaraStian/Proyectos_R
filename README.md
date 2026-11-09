@@ -3,7 +3,7 @@
 
 En este repositorio hay diferentes software en el lenguaje de programacion R.
 Los pasos para poner en ejecución son los siguientes. Lo primero es descargar todo lo relacionado con R.
-Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de R en la terminal de comandos y usando R studio.
+Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de R en la terminal de comandos y usando R studio para ver cada aplicacion en ejecucion.
 
 Pagina web
 ```Pagina web
