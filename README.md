@@ -40,7 +40,7 @@ git clone https://github.com/guevaraStian/Proyectos_R.git
 Cd Proyectos_R
 git push origin master
 ```
-El proyecto se ejecuta en Rstudio que es la IDE de R.
+El proyecto se ejecuta en Rstudio que es la IDE de R, primero se abre este IDE y luego se abre la carpeta descargada para poder ejecutar cada proyecto.
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes dependiendo como este programado el software
 
 
