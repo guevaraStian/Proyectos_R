@@ -31,7 +31,7 @@ brew install git
 ```
 
 
-Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego descargamos el proyecto dando click en el boton verde de la pagina de git y luego la opcion dowload, otra forma de descargar los archivo es con los siguiente comandos, funciona igual en todos los sistemas operativos.
+Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego descargamos el proyecto dando click en el boton verde de la pagina de git y luego la opcion dowload, otra forma de descargar los archivo es con los siguiente comandos, funciona igual en todos los sistemas operativos, primero se descargar los archivos con git.
 
 ```Terminal de comandos
 git --version
